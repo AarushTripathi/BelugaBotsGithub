@@ -1,5 +1,8 @@
-
-package org.firstinspires.ftc.teamcode;
+//General Idea of TeleOP.
+// PLEASE LET THE COMMENTS BE AS IT IS.
+// USE THE CODE ON YOUR OWN GITHUB.
+// DO NOT EDIT THIS.
+package org.firstinspires.ftc.teamcode.NewTeamSamples;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
