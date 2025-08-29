@@ -10,7 +10,7 @@ import com.qualcomm.robotcore.hardware.CRServo;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
-@Autonomous(name = "Actual Red Auton")
+@Autonomous(name = "General ITD Auto")
 public class SampleAuto extends LinearOpMode {
 
     private DcMotor frontLeftMotor, frontRightMotor, backLeftMotor, backRightMotor, linearSlideMotor, intakeMotor, backMotor;
